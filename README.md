@@ -46,12 +46,6 @@ The system depends on the following files.
 8. `multi-face mask5B.ipynb` [See here](https://github.com/memudualimatou/FACE-MASK-DETECTION-WEB-APP-FLASK-PYTHON/blob/main/faceMask_model.ipynb) :this file is the model used to build this project check it.
  <br><br>
 
-## ⌛ Project Demo
-
-<br>
-
-![capture](https://github.com/memudualimatou/FACE-MASK-DETECTION-WEB-APP-FLASK-PYTHON/blob/main/ezgif.com-gif-maker%20(3).gif)<br>
-<br><br>
 
 ## 🔑 PEREQUISITES
 
